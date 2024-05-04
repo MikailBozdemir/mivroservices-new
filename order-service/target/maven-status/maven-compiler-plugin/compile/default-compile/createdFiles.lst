@@ -1,0 +1,14 @@
+com\hepsisurada\orderservice\config\WebClientConfig.class
+com\hepsisurada\orderservice\dto\OrderRequest.class
+com\hepsisurada\orderservice\model\OrderLineItems.class
+com\hepsisurada\orderservice\OrderServiceApplication.class
+com\hepsisurada\orderservice\service\OrderService.class
+com\hepsisurada\orderservice\repository\OrderRepository.class
+com\hepsisurada\orderservice\service\impl\OrderServiceImpl.class
+com\hepsisurada\orderservice\dto\InventoryResponse.class
+com\hepsisurada\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class
+com\hepsisurada\orderservice\controller\OrderController.class
+com\hepsisurada\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\hepsisurada\orderservice\model\Order.class
+com\hepsisurada\orderservice\dto\OrderLineItemsDto.class
+com\hepsisurada\orderservice\event\OrderPlaceEvent.class

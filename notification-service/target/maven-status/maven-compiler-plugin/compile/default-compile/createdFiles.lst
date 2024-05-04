@@ -1,0 +1,6 @@
+com\hepsisurada\notificationservice\OrderPlacedEvent.class
+com\hepsisurada\notificationservice\NotificationServiceApplication.class
+com\hepsisurada\notificationservice\EmailService.class
+com\hepsisurada\notificationservice\EmailConfiguration.class
+com\hepsisurada\notificationservice\EmailConfiguration$Client.class
+com\hepsisurada\notificationservice\EmailConfiguration$Email.class

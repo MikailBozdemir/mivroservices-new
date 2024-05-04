@@ -1,0 +1,12 @@
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\controller\OrderController.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\dto\InventoryResponse.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\OrderServiceApplication.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\service\impl\OrderServiceImpl.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\event\OrderPlaceEvent.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\repository\OrderRepository.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\dto\OrderLineItemsDto.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\dto\OrderRequest.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\model\Order.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\model\OrderLineItems.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\service\OrderService.java
+C:\Users\pc\Desktop\SpringBoot\HepsiSurada\mivroservices-new\order-service\src\main\java\com\hepsisurada\orderservice\config\WebClientConfig.java

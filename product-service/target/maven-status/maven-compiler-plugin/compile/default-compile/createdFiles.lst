@@ -1,0 +1,11 @@
+com\hepsisurada\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\hepsisurada\productservice\service\ProductService.class
+com\hepsisurada\productservice\ProductServiceApplication.class
+com\hepsisurada\productservice\dto\ProductRequest.class
+com\hepsisurada\productservice\model\Product$ProductBuilder.class
+com\hepsisurada\productservice\dto\ProductResponse.class
+com\hepsisurada\productservice\repository\ProductRepository.class
+com\hepsisurada\productservice\model\Product.class
+com\hepsisurada\productservice\service\impl\ProductSereviceImpl.class
+com\hepsisurada\productservice\controller\ProductController.class
+com\hepsisurada\productservice\dto\ProductResponse$ProductResponseBuilder.class

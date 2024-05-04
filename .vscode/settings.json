@@ -1,0 +1,16 @@
+
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "maven.view": "hierarchical",
+
+    "java.project.sourcePaths": [
+        "order-service/src/main/java/com/hepsisurada/orderservice",
+        "inventory-service/src/main/java/com/hepsisurada/inventoryservice",
+        "product-service/src/main/java/com/hepsisurada/productservice",
+        "discovery-server/src/main/java/com/hepsisurada/discoveryserver",
+        "notification-service/src/main/java/com/hepsisurada/notificationservice",
+"mivroservices-new/api-gateway/src/main/java/com/hespisurada/apigateway",
+        "mivroservices-new/discovery-server/src/main/java/com/hepsisurada/discoveryserver"
+	
+    ]
+}

@@ -1,0 +1,8 @@
+com\hepsisurada\inventoryservice\InventoryServiceApplication.class
+com\hepsisurada\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\hepsisurada\inventoryservice\service\impl\InventoryServiceImpl.class
+com\hepsisurada\inventoryservice\controller\InventoryController.class
+com\hepsisurada\inventoryservice\repository\InventoryRepository.class
+com\hepsisurada\inventoryservice\dto\InventoryResponse.class
+com\hepsisurada\inventoryservice\model\Inventory.class
+com\hepsisurada\inventoryservice\service\InventoryService.class
